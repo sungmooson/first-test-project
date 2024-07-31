@@ -1,0 +1,14 @@
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\Dele_0729.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\Dele_0729.AssemblyInfoInputs.cache
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\Dele_0729.AssemblyInfo.cs
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\Dele_0729.csproj.CoreCompileInputs.cache
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\bin\Debug\net8.0\Dele_0729.exe
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\bin\Debug\net8.0\Dele_0729.deps.json
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\bin\Debug\net8.0\Dele_0729.runtimeconfig.json
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\bin\Debug\net8.0\Dele_0729.dll
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\bin\Debug\net8.0\Dele_0729.pdb
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\Dele_0729.dll
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\refint\Dele_0729.dll
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\Dele_0729.pdb
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\Dele_0729.genruntimeconfig.cache
+D:\1.work_SM\business_report\2.Study\c#\Delegate\Dele_0729\obj\Debug\net8.0\ref\Dele_0729.dll
