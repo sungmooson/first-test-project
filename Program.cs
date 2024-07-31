@@ -26,7 +26,7 @@ namespace Dele_0729
 			multiDelegate("황윤모");
 
 
-
+			Console.WriteLine("test");
 		}
 
 		public static void Hello(string message)
